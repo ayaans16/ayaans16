@@ -5,3 +5,5 @@
 ![Java](https://img.shields.io/badge/java-%235382A1.svg?style=flat&logo=coffeescript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+
+[![smistudy stats](https://smistudy.ca/api/users/ayaan/card.svg?theme=dark)](https://smistudy.ca/u/ayaan)
